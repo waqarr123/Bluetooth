@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BluetoothSampleProject</string>
+    <string name="bluetooth">Bluetooth Scan or Add Device</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_address">Device Address</string>
+    <string name="get_device_properties">Get Device Properties</string>
+    <string name="enter_command">Enter Command</string>
+</resources>
